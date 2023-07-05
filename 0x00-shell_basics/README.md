@@ -1,1 +1,1 @@
-My script readme
+My shell readme
