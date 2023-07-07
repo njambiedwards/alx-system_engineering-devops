@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al
+chmod 753 hello
