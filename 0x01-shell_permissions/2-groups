@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo libuser-lid root
+sudo libuser-lid
